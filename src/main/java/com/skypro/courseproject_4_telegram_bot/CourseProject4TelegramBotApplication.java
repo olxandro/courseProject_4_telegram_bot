@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CourseProject4TelegramBotApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CourseProject4TelegramBotApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(CourseProject4TelegramBotApplication.class, args);
+    }
 
 }
